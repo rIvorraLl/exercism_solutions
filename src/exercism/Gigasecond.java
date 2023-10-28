@@ -2,7 +2,6 @@ package exercism;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.temporal.ChronoUnit;
 
 public class Gigasecond {
     LocalDate ld = null;
