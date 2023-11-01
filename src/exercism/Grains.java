@@ -1,7 +1,6 @@
 package exercism;
 
 import java.math.BigInteger;
-import java.math.BigDecimal;
 
 class Grains {
 
