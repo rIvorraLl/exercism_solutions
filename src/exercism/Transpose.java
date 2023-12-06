@@ -1,7 +1,5 @@
 package exercism;
 
-import java.util.Arrays;
-
 public class Transpose {
     public String transpose(String toTranspose) {
 	String result = "";
